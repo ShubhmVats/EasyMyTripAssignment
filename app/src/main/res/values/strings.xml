@@ -5,7 +5,7 @@
         <item>Running Time</item>
         <item>Distance</item>
         <item>Average Speed</item>
-        <item>Calories Burned</item>
+
     </string-array>
     <string name="google_maps_key">AIzaSyBsNOdN05khpEO-4jvl4QOVgwdtLV9HbRY</string>
 
